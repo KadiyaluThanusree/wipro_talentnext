@@ -1,4 +1,4 @@
-package tanuapplication;
+package java_fun;
 
 import java.util.Scanner;
 

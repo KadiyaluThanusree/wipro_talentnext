@@ -1,11 +1,11 @@
-package tanuapplication;
-
+package java_fun;
+import java.util.*;
 public class question2 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		String a=sc.nextLine();
-		System.out.println("Welcome ");
+		int a=sc.nextInt();
+		System.out.println(" Welcome " + a);
 
 	}
 
